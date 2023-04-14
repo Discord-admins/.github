@@ -1,6 +1,6 @@
 <div align="center">
 
-halfbot-example
+[halfbot-example](https://github.com/DisQada/halfbot-example)
 
 ![](https://img.shields.io/github/stars/DisQada/halfbot-example.svg?logo=github)
 ![](https://img.shields.io/github/forks/DisQada/halfbot-example.svg?logo=github)
@@ -8,7 +8,7 @@ halfbot-example
 
 <br>
 
-halfbot
+[halfbot](https://github.com/DisQada/halfbot)
 
 ![](https://img.shields.io/npm/dm/@disqada/halfbot.svg?logo=npm)
 
@@ -23,7 +23,7 @@ halfbot
 
 <br>
 
-pathfinder
+[pathfinder](https://github.com/DisQada/pathfinder)
 
 ![](https://img.shields.io/npm/dm/@disqada/pathfinder.svg?logo=npm)
 
