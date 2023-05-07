@@ -1,39 +1,61 @@
-<div align="center">
+# DisQada
 
-[halfbot-example](https://github.com/DisQada/halfbot-example)
+## Translations
 
-![](https://img.shields.io/github/stars/DisQada/halfbot-example.svg?logo=github)
-![](https://img.shields.io/github/forks/DisQada/halfbot-example.svg?logo=github)
-![](https://img.shields.io/github/watchers/DisQada/halfbot-example.svg?logo=github)
+- [Arabic | العربية][ar]
 
-<br>
+---
 
-[halfbot](https://github.com/DisQada/halfbot)
+## About us
 
-![](https://img.shields.io/npm/dm/@disqada/halfbot.svg?logo=npm)
+We are a group of professional Discord users who love the platform
+If you love it too and want to get the most out of it, then you've come to the right place.
 
-![](https://img.shields.io/github/stars/DisQada/halfbot.svg?logo=github)
-![](https://img.shields.io/github/forks/DisQada/halfbot.svg?logo=github)
-![](https://img.shields.io/github/watchers/DisQada/halfbot.svg?logo=github)
+> Name meaning:
+> Our brand name is made of two words Dis and Qada, the word Dis is a shortcut for the platform Discord and the word Qada in Arabic means "leaders", so the meaning of our brand name is "Discord leaders".
 
-![](https://img.shields.io/npm/v/@disqada/halfbot.svg?label=latest&logo=npm)
-![](https://img.shields.io/npm/v/@disqada/halfbot.svg?label=next&logo=npm)
-![](https://img.shields.io/npm/v/@disqada/halfbot.svg?label=beta&logo=npm)
-![](https://img.shields.io/npm/v/@disqada/halfbot.svg?label=alpha&logo=npm)
+## Our services
 
-<br>
+We cover all aspects of Discord, that is:
 
-[pathfinder](https://github.com/DisQada/pathfinder)
+- Understanding Discord
+- Moderating Discord servers
+- Developing Discord bots
 
-![](https://img.shields.io/npm/dm/@disqada/pathfinder.svg?logo=npm)
+## Developing Discord bots
 
-![](https://img.shields.io/github/stars/DisQada/pathfinder.svg?logo=github)
-![](https://img.shields.io/github/forks/DisQada/pathfinder.svg?logo=github)
-![](https://img.shields.io/github/watchers/DisQada/pathfinder.svg?logo=github)
+### Requirements
 
-![](https://img.shields.io/npm/v/@disqada/pathfinder.svg?label=latest&logo=npm)
-![](https://img.shields.io/npm/v/@disqada/pathfinder.svg?label=next&logo=npm)
-![](https://img.shields.io/npm/v/@disqada/pathfinder.svg?label=beta&logo=npm)
-![](https://img.shields.io/npm/v/@disqada/pathfinder.svg?label=alpha&logo=npm)
+- Programming fundamental knowledge
+- JavaScript/TypeScript basic skills
+- Download [Node.js][node]
+- An IDE like [Visual studio code][vscode] or [Web storm][webstorm]
+- Bot hosting server, you can use your machine with [pm2][pm2]
 
-</div>
+### Tools
+
+We as DisQada have built tools to help you develop you bot easier and faster than ever.
+
+[![halfbot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=halfbot&theme=prussian)][halfbot]
+
+[![pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=pathfinder&theme=prussian)][pathfinder]
+
+### Template
+
+Even though these tools make the process easy, it's still annoying to build a bot from scratch every time, that's why we made a bot ready template [fullbot][fullbot], the template name shows that it provides a full functioning bot code that you can download then run immediately after you give it your bot token.
+
+[![fullbot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=fullbot&theme=prussian)][fullbot]
+
+## Help
+
+If you need a help with any of our services or just have a question to ask, feel free to join our official [Discord server][discord].
+
+[node]: https://nodejs.org/en/download
+[vscode]: https://code.visualstudio.com
+[webstorm]: https://www.jetbrains.com/webstorm
+[pm2]: https://www.npmjs.com/package/pm2
+[halfbot]: https://github.com/DisQada/halfbot
+[pathfinder]: https://github.com/DisQada/pathfinder
+[fullbot]: https://github.com/DisQada/fullbot
+[discord]: https://discord.gg/x4p3aDRd9R
+[ar]: https://github.com/DisQada/.github/blob/main/profile/README.ar.md
