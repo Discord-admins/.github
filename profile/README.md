@@ -1,6 +1,6 @@
 <div align="center">
 
-[halfbot-example](https://github.com/DisQada/halfbot-example)
+[fullbot](https://github.com/DisQada/fullbot)
 
 ![](https://img.shields.io/github/stars/DisQada/halfbot-example.svg?logo=github)
 ![](https://img.shields.io/github/forks/DisQada/halfbot-example.svg?logo=github)
