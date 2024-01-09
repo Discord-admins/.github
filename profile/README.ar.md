@@ -1,65 +1,94 @@
-# DisQada
-
 <div align="right">
+
+# قادة دسكورد
 
 ## الترجمات
 
 - [الإنجليزية | English][en]
 
----
+## معلومات عننا
 
-## معلومات عنا
+مجموعة من مستخدمي دسكورد المحترفين يساعدون المستخدمين والعلامات التجارية في تحقيق أقصى استفادة من دسكورد
 
-نحن مجموعة من مستخدمي Discord المحترفين الذين يحبون المنصة
-إذا كنت تحبها أيضًا وترغب في تحقيق أقصى استفادة منها، فأنت في المكان الصحيح.
+## الفهرس
 
-> معنى الاسم:
-> يتكون اسم علامتنا التجارية من كلمتين Dis و Qada، وكلمة Dis هي اختصار لمنصة Discord وكلمة Qada باللغة العربية تعني "قادة" ، وبالتالي فإن معنى اسم علامتنا التجارية هو "قادة دسكورد".
+- [قادة دسكورد](#قادة-دسكورد)
+  - [الترجمات](#الترجمات)
+  - [معلومات عننا](#معلومات-عننا)
+  - [الفهرس](#الفهرس)
+  - [خدماتنا](#خدماتنا)
+    - [معرفة كل شيء عن دسكورد](#معرفة-كل-شيء-عن-دسكورد)
+    - [بناء وإدارة خوادم دسكورد](#بناء-وإدارة-خوادم-دسكورد)
+    - [تطوير بوتات دسكورد](#تطوير-بوتات-دسكورد)
+      - [متطلبات](#متطلبات)
+      - [قالب كود بوت](#قالب-كود-بوت)
+      - [إطار](#إطار)
+      - [أدوات/مكتبات](#أدواتمكتبات)
+    - [دمج المنصات الأخرى مع دسكورد](#دمج-المنصات-الأخرى-مع-دسكورد)
+  - [مساعدة](#مساعدة)
 
 ## خدماتنا
 
-نحن نغطي جميع جوانب دسكورد، التي هي:
+نحن نغطي جميع جوانب دسكورد وهي:
 
-- فهم دسكورد
-- الإشراف على سيرفرات دسكورد
+- معرفة كل شيء عن دسكورد
+- بناء وإدارة خوادم دسكورد
 - تطوير بوتات دسكورد
+- دمج المنصات الأخرى مع دسكورد
 
-## تطوير روبوتات الخلاف
+### معرفة كل شيء عن دسكورد
 
-### متطلبات
+...
 
-- برمجة المعرفة الأساسية
-- مهارات JavaScript/TypeScript الأساسية
-- تنزيل [Node.js][node]
-- محرر أكود مثل [Visual studio code][vscode] أو [webstorm][webstorm]
-- خادم استضافة للبوت، يمكنك استخدام جهازك مع [pm2][pm2]
+### بناء وإدارة خوادم دسكورد
 
-### أدوات
+...
 
-نحن كDisQada قمنا ببناء أدوات لمساعدتك على تطوير بوتك بشكل أسهل وأسرع من أي وقت مضى.
+### تطوير بوتات دسكورد
 
-[![halfbot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=halfbot&theme=prussian)][halfbot]
+#### متطلبات
 
-[![pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=pathfinder&theme=prussian)][pathfinder]
+- المعرفة الأساسية ببرمجة JavaScript/TypeScript
+- إصدار ثابت منزل من [Node.js](https://nodejs.org/en/download)
+- محرر أكواد مثل [VS Code](https://code.visualstudio.com) أو [Web Storm](https://www.jetbrains.com/webstorm)
+- خادم استضافة للبوت، يمكنك استخدام جهازك مع أمر بدء التشغيل و[pm2](https://www.npmjs.com/package/pm2)
 
-### قالب
+#### قالب كود بوت
 
-على الرغم من أن هذه الأدوات تجعل العملية سهلة، إلا أنه لا يزال من المزعج إنشاء بوت من الصفر في كل مرة، ولهذا السبب صنعنا قالباً جاهزًا للبوت [fullbot][fullbot]، يوضح اسم القالب أنه يوفر كود بوت متكامل يمكن تنزيله ثم تشغيله فورًا بعد إعطائه رمز البوت الخاص بك.
+على الرغم من أن أدواتنا تجعل عملية إنشاء البوتات سهلة، إلا أنه لا يزال من المزعج إنشاء البوت من الصفر في كل مرة، لهذا السبب أنشأنا القالب [FullBot][fullbot] (يوضح اسم القالب أنه يوفر كود بوت متكامل)، يمكنك تنزيل/تفرع كود المستودع واتباع تعليمات الإعداد لتشغيل البوت الخاص بك في أقل من 10 دقائق
 
-[![fullbot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=fullbot&theme=prussian)][fullbot]
+[![FullBot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=fullbot&theme=prussian)][fullbot]
+
+#### إطار
+
+بنية تأسيسية تعمل على تبسيط عملية إنشاء البوتات من خلال توفير مجموعة من الوظائف والهياكل المعدة مسبقاً، إنها تسمح للمطورين بالتركيز على ميزات بوتاتهم الفريدة بدلاً من التعليمات البرمجية المكررة والمملة
+
+[![HalfBot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=halfbot&theme=prussian)][halfbot]
+
+#### أدوات/مكتبات
+
+هياكل إضافية تلخص مهمة صغيرة في حزمة يمكنها توسيع وتمكين قوة إطار [HalfBot][halfbot]
+
+تم إنشاء هذه الأدوات مع وضع التجريد في الاعتبار، يمكن استخدامها بدون [HalfBot][halfbot] وفي المشاريع التي ليست بوتات دسكورد
+
+[![PathFinder](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=pathfinder&theme=prussian)](https://github.com/DisQada/pathfinder)
+
+[![Scraper](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=Scraper&theme=prussian)](https://github.com/DisQada/Scraper)
+
+### دمج المنصات الأخرى مع دسكورد
+
+نقوم بتجربة واجهة برمجة تطبيقات Google لتحسين استخدام نظامها البيئي بدءً من نماذج Google
+
+سيتم الكشف عن المزيد من المعلومات لاحقا إن شاء الله
 
 ## مساعدة
 
-إذا كنت بحاجة إلى مساعدة بشأن أي من خدماتنا أو كان لديك سؤال لطرحه، فلا تتردد في الانضمام إلى [سيرفر دسكورد][discord] الرسمي.
+تعد ميزة _**المشاكل (issues)**_ الموجودة في GitHub حصرية للأخطاء الفنية
 
-[node]: https://nodejs.org/en/download
-[vscode]: https://code.visualstudio.com
-[webstorm]: https://www.jetbrains.com/webstorm
-[pm2]: https://www.npmjs.com/package/pm2
-[halfbot]: https://github.com/DisQada/halfbot
-[pathfinder]: https://github.com/DisQada/pathfinder
+إذا كنت بحاجة إلى مساعدة في أي شيء يتعلق بـ دسكورد أو تريد طرح سؤال، فانضم إلى [خادم دسكورد](https://discord.gg/x4p3aDRd9R) وسنساعدك هناك إن شاء الله
+
+[halfbot]: https://github.com/DisQada/HalfBot
 [fullbot]: https://github.com/DisQada/fullbot
-[discord]: https://discord.gg/x4p3aDRd9R
 [en]: https://github.com/DisQada/.github/blob/main/profile/README.md
 
 </div>
