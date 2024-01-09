@@ -1,0 +1,20 @@
+{
+  "caseSensitive": true,
+  "useGitignore": true,
+  "language": "en-GB,ar",
+  "files": ["./**/*.md"],
+  "words": [
+    "Insha",
+    "Qada",
+    "webstorm",
+    "البوت",
+    "البوتات",
+    "بوت",
+    "بوتات",
+    "بوتاتهم",
+    "بوتك",
+    "دسكورد",
+    "سيرفر",
+    "للبوت"
+  ]
+}

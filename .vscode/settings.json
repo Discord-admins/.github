@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnType": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.trimAutoWhitespace": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.organizeImports": "always"
+  },
+
+  "markdown.replaceSmartQuotes": true
+}
