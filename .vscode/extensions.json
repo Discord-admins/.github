@@ -1,15 +1,12 @@
 {
   "recommendations": [
-    "streetsidesoftware.code-spell-checker-arabic",
-    "streetsidesoftware.code-spell-checker",
-    "usernamehw.errorlens",
-    "visualstudioexptteam.vscodeintellicode",
+    "goessner.mdmath",
     "nhoizey.gremlins",
+    "yzane.markdown-pdf",
+    "usernamehw.errorlens",
     "docsmsft.docs-markdown",
     "yzhang.markdown-all-in-one",
-    "yzane.markdown-pdf",
     "mdickin.markdown-shortcuts",
-    "goessner.mdmath",
     "christian-kohler.path-intellisense"
   ]
 }

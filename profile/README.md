@@ -1,100 +1,89 @@
-<div align="left">
+# قادة دسكورد
 
-# Discord Qada (DisQada)
+## الترجمات
 
-## Translations
+- [الإنجليزية | English](README.en.md)
 
-- [Arabic | العربية][ar]
+## الفهرس
 
+- [قادة دسكورد](#قادة-دسكورد)
+  - [الترجمات](#الترجمات)
+  - [الفهرس](#الفهرس)
+  - [حول](#حول)
+  - [خدماتنا](#خدماتنا)
+    - [معرفة كل شيء عن دسكورد](#معرفة-كل-شيء-عن-دسكورد)
+    - [بناء وإدارة خوادم دسكورد](#بناء-وإدارة-خوادم-دسكورد)
+    - [تطوير بوتات دسكورد](#تطوير-بوتات-دسكورد)
+      - [متطلبات](#متطلبات)
+      - [قالب كود بوت](#قالب-كود-بوت)
+      - [إطار](#إطار)
+      - [أدوات/مكتبات](#أدواتمكتبات)
+    - [دمج المنصات الأخرى مع دسكورد](#دمج-المنصات-الأخرى-مع-دسكورد)
+  - [مساعدة](#مساعدة)
 
-## About Us
+## حول
 
-Group of professional Discord users helping users and brands get the most out of Discord
+مجموعة من مستخدمي دسكورد المحترفين يساعدون المستخدمين والعلامات التجارية في تحقيق أقصى استفادة من دسكورد
 
-> Name meaning:
-> Our brand name is made of two sections `Dis` and `Qada`, the word Dis is a shortcut for the Discord platform and the word Qada is an Arabic word that means "leaders", so the meaning of our brand name is "Discord leaders"
+## خدماتنا
 
-## Table of Contents
+نحن نغطي جميع جوانب دسكورد وهي:
 
-- [Discord Qada (DisQada)](#discord-qada-disqada)
-  - [Translations](#translations)
-  - [About Us](#about-us)
-  - [Table of Contents](#table-of-contents)
-  - [Our Services](#our-services)
-    - [Knowing Everything About Discord](#knowing-everything-about-discord)
-    - [Building And Moderating Discord Servers](#building-and-moderating-discord-servers)
-    - [Developing Discord Bots](#developing-discord-bots)
-      - [Requirements](#requirements)
-      - [Bot Code Template](#bot-code-template)
-      - [Framework](#framework)
-      - [Tools/Libraries](#toolslibraries)
-    - [Integrating Other Platforms With Discord](#integrating-other-platforms-with-discord)
-  - [Help](#help)
+- معرفة كل شيء عن دسكورد
+- بناء وإدارة خوادم دسكورد
+- تطوير بوتات دسكورد
+- دمج المنصات الأخرى مع دسكورد
 
-## Our Services
-
-We cover all aspects of Discord, that is:
-
-- Knowing everything about Discord
-- Building and moderating Discord servers
-- Developing Discord bots
-- Integrating other platforms with Discord
-
-### Knowing Everything About Discord
+### معرفة كل شيء عن دسكورد
 
 ...
 
-### Building And Moderating Discord Servers
+### بناء وإدارة خوادم دسكورد
 
 ...
 
-### Developing Discord Bots
+### تطوير بوتات دسكورد
 
-#### Requirements
+#### متطلبات
 
-- JavaScript/TypeScript programming basic knowledge
-- Stable version of [Node.js](https://nodejs.org/en/download) downloaded
-- An IDE like [Visual studio code](https://code.visualstudio.com) or [Web storm](https://www.jetbrains.com/webstorm)
-- Bot hosting server, you can use your machine with a startup command and [pm2](https://www.npmjs.com/package/pm2)
+- المعرفة الأساسية ببرمجة JavaScript/TypeScript
+- إصدار ثابت منزل من [Node.js](https://nodejs.org/en/download)
+- محرر أكواد مثل [VS Code](https://code.visualstudio.com) أو [Web Storm](https://www.jetbrains.com/webstorm)
+- خادم استضافة للبوت، يمكنك استخدام جهازك مع أمر بدء التشغيل و[pm2](https://www.npmjs.com/package/pm2)
 
-#### Bot Code Template
+#### قالب كود بوت
 
-Even though our tools make the process of creating bots easy, it's still annoying to build a bot from scratch every time, that's why we made the template [FullBot][fullbot] (the template name shows that it provides a full functioning bot code), you can download/fork the repository code and follow the setup up instructions to get your bot running in less than 10 minutes
+على الرغم من أن أدواتنا تجعل عملية إنشاء البوتات سهلة، إلا أنه لا يزال من المزعج إنشاء البوت من الصفر في كل مرة، لهذا السبب أنشأنا القالب [FullBot][fullbot] (يوضح اسم القالب أنه يوفر كود بوت متكامل)، يمكنك تنزيل/تفرع كود المستودع واتباع تعليمات الإعداد لتشغيل البوت الخاص بك في أقل من 10 دقائق
 
-[![FullBot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=FullBot&theme=prussian)][fullbot]
+[![FullBot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=fullbot&theme=prussian)][fullbot]
 
-#### Framework
+#### إطار
 
-Foundational structure that simplifies the process of creating bots by providing a set of pre-built functionalities and structures, it allows developers to focus on the unique features of their bots rather than the boring repetitive code
+بنية تأسيسية تعمل على تبسيط عملية إنشاء البوتات من خلال توفير مجموعة من الوظائف والهياكل المعدة مسبقاً، إنها تسمح للمطورين بالتركيز على ميزات بوتاتهم الفريدة بدلاً من التعليمات البرمجية المكررة والمملة
 
-[![HalfBot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=HalfBot&theme=prussian)][halfbot]
+[![HalfBot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=halfbot&theme=prussian)][halfbot]
 
-#### Tools/Libraries
+#### أدوات/مكتبات
 
-Additional structures that encapsulate a tiny job in a package that can extend and empower the strength of [HalfBot][halfbot] framework
+هياكل إضافية تلخص مهمة صغيرة في حزمة يمكنها توسيع وتمكين قوة إطار [HalfBot][halfbot]
 
-These tools were created with abstraction in-mind, they can be used without [HalfBot][halfbot] and in projects that are not Discord bots
+تم إنشاء هذه الأدوات مع وضع التجريد في الاعتبار، يمكن استخدامها بدون [HalfBot][halfbot] وفي المشاريع التي ليست بوتات دسكورد
 
-[![PathFinder](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=PathFinder&theme=prussian)](https://github.com/DisQada/PathFinder)
+[![PathFinder](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=pathfinder&theme=prussian)](https://github.com/DisQada/pathfinder)
 
 [![Scraper](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=Scraper&theme=prussian)](https://github.com/DisQada/Scraper)
 
-[![TypeDoc](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=TypeDoc&theme=prussian)](https://github.com/DisQada/TypeDoc)
+### دمج المنصات الأخرى مع دسكورد
 
-### Integrating Other Platforms With Discord
+نقوم بتجربة واجهة برمجة تطبيقات Google لتحسين استخدام نظامها البيئي بدءً من نماذج Google
 
-We're experimenting with Google's API to improve the use of it's ecosystem starting with Google Forms
+سيتم الكشف عن المزيد من المعلومات لاحقا إن شاء الله
 
-More information will be revealed later Insha Allah
+## مساعدة
 
-## Help
+تعد ميزة _**المشاكل (issues)**_ الموجودة في GitHub حصرية للأخطاء الفنية
 
-The _**issues**_ feature within GitHub is exclusive to technical bugs
-
-If you need a help with anything related to Discord or want to ask a question then join our [Discord server](https://discord.gg/x4p3aDRd9R) and we'll help you there Insha Allah
+إذا كنت بحاجة إلى مساعدة في أي شيء يتعلق بـ دسكورد أو تريد طرح سؤال، فانضم إلى [خادم دسكورد](https://discord.gg/x4p3aDRd9R) وسنساعدك هناك إن شاء الله
 
 [halfbot]: https://github.com/DisQada/HalfBot
-[fullbot]: https://github.com/DisQada/FullBot
-[ar]: https://github.com/DisQada/.github/blob/main/profile/README.ar.md
-
-</div>
+[fullbot]: https://github.com/DisQada/fullbot

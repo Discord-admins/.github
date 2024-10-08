@@ -1,14 +1,15 @@
 {
   "editor.defaultFormatter": "yzhang.markdown-all-in-one",
   "editor.formatOnSaveMode": "file",
-  "editor.formatOnType": false,
   "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
   "editor.trimAutoWhitespace": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll": "always",
-    "source.organizeImports": "always"
-  },
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
 
-  "markdown.replaceSmartQuotes": true
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+
+  "markdown.replaceSmartQuotes": true,
+  "markdown.occurrencesHighlight.enabled": true,
+  "markdown.extension.tableFormatter.normalizeIndentation": true
 }
